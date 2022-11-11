@@ -74,6 +74,7 @@ Use the tabs on top of the Event page to provide all the information you think i
 
 * title and subtitle of the presentation
 * short abstract
+* duration of your talk. It needs to be either 30 minutes or 10 minutes
 * if you have them (but no pressure otherwise), use the _Links_ section to link to other relevant details (other publications, video of previous talks, ...)
 * use the _Submission Notes_ field to send any extra information 
 
