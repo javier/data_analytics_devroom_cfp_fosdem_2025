@@ -6,4 +6,24 @@
 <!-- You can set your favicon here -->
 <!-- link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" -->
 
+<!-- Twitter cards -->
+<meta name="twitter:site"    content="@fosdem">
+<meta name="twitter:creator" content="@supercoco9">
+<meta name="twitter:title"   content="{{ page.title }}">
+
+{% if page.summary %}
+<meta name="twitter:description" content="{{ page.summary }}">
+{% else %}
+<meta name="twitter:description" content="{{ site.description }}">
+{% endif %}
+
+{% if page.image %}
+<meta name="twitter:card"  content="summary_large_image">
+<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+{% else %}
+<meta name="twitter:card"  content="summary">
+<meta name="twitter:image" content="https://fosdem.org/2023/assets/style/logo-big-a5243e4d7e00f8bc6816e2b3f3804f505a17ae4832e6e52a24d183617e03a87c.png">
+{% endif %}
+<!-- end of Twitter cards -->
+
 <!-- end custom head snippets -->
