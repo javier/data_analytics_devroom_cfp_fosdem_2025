@@ -1,0 +1,31 @@
+[FOSDEM] Talk selected for the Fast and Streaming Data DevRoom
+
+---
+
+Hi {},
+
+We are excited to let you know your talk {} has been accepted at the "Fast and Streaming Data Devroom" at FOSDEM.
+
+The DevRoom will run from 10.30 to 14.30 on Saturday February 4th 2023 in Brussels, Belgium. 
+
+In order to publish your talk as officially accepted we need confirmation you would be able to make it. Please respond to this email at your earliest convenience, as we need to publish the schedule by December 15th.
+
+Information about the speakers will be automatically published from your profile at Penta (https://penta.fosdem.org/). Please make sure your information is up to date. FOSDEM advises to inform the Short Biography and the profile picture. We would also appreciate it if you add a phone number to your profile, in case we need to reach you during the event. We would try email first, but in case of emergencies phone might be preferable. Phone numbers will only be visible to FOSDEM and DevRoom organisers.
+ 
+If you don't tell us otherwise, we will schedule your talk at any time between 10.30 and 14.30. If you have any time constraints, please do let us know so we can accomodate.
+
+As a reminder, all talks in this track are 30 minutes long, including any demos and Q&A. You choose the format of your talk. It can be shell-driven, slide-driven, demo-driven, or a combination.
+
+Since we will have a mixed audience, all talks will need to feature an intro to make sure everyone can follow, but you are welcome to discuss internals of your project or to go as deep as you want into technical details.
+
+We are still waiting for details on the equipment of the room, and about the building where this DevRoom will be hosted. As soon as we know more we will let you know.
+
+In the meantime, if there is anything you need, please don't hesitate to ask either at the email I am writing from, or at streaming-devroom-manager@fosdem.org
+
+Thank you for making this DevRoom awesome and looking forward to seeing your talk!
+
+Javier Ramirez
+
+
+
+
