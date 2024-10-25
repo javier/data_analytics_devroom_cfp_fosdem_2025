@@ -1,2 +1,5 @@
-# fast_and_streaming_data_devroom_cfp_fosdem_2023
-Call for Papers for the "Fast and Streaming Data" DevRoom at FOSDEM 2023
+# Data Analytics DevRoom at FOSDEM 2025 (Draft - Work In Progress)
+
+Call for Papers for the ["Data Analytics" DevRoom](https://fosdem.org/2025/schedule/track/analytics/) at
+[FOSDEM 2025](https://fosdem.org/2025)
+
