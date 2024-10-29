@@ -71,8 +71,9 @@ submitting a proposal you agree to being recorded and to have your talk made ava
 # How to submit your talk
 
 If you would like to submit a proposal, you need to do it via the official FOSDEM website at
-[https://fosdem.org/2025/schedule/track/analytics/](https://fosdem.org/2025/schedule/track/analytics/).
- **_When submitting your talk, make sure to select the ‘Data Analytics Devroom’ as the 'Track’._**. If you cannot see the type of talk (40 minutes, Lightning talk, OSS Project pitch) you want
+[https://pretalx.fosdem.org/fosdem-2025/cfp](https://pretalx.fosdem.org/fosdem-2025/cfp).
+ **_When submitting your talk, make sure to select the ‘Data Analytics Devroom’ as the 'Track’._**. If you cannot see
+ the type of talk (40 minutes, Lightning talk, OSS Project pitch) you want
  to submit on the dropdown, please just choose any value and leave a note mentioning the format of your session.
 
 
