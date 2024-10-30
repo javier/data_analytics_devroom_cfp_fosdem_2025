@@ -97,18 +97,13 @@ there will be no other reliable form of emergency communication on the day.
 
 ***
 
-# Contact
+# Contact and Organising Team
 
 If you need to get in touch with the organisers of this devroom, please email analytics-devroom-managers at fosdem.org
 
-
-***
-
-# Acknowledgments
-
-We appreciate the support from [QuestDB](https://questdb.io) and [AWS](https://aws.amazon.com/) for enabling the organizers to manage this DevRoom.
-
-This site was created using the [Jekyll Hacker Theme](https://pages-themes.github.io/hacker/)
+* Jaromir Hamala, Core Database Developer at https://questdb.io
+* Javier Ramirez, Data Advocate at https://questdb.io
+* Ricardo Sueiras, Principal Developer Advocate at https://aws.amazon.com/
 
 ***
 
@@ -144,6 +139,14 @@ Should you need any assistance during the event you can reach out to the organis
 * E-mail: conduct@fosdem.org
 * Phone (during the event only): +32 2 788 74 73
 
+
+***
+
+# Acknowledgments
+
+We appreciate the support from [QuestDB](https://questdb.io) and [AWS](https://aws.amazon.com/) for enabling the organizers to manage this DevRoom.
+
+This site was created using the [Jekyll Hacker Theme](https://pages-themes.github.io/hacker/)
 
 
 
